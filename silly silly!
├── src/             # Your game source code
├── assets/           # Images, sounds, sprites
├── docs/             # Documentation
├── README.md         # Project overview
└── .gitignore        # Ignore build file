@@ -1,0 +1,6 @@
+my-game/
+├── src/              # Your game source code
+├── assets/           # Images, sounds, sprites
+├── docs/             # Documentation
+├── README.md         # Project overview
+└── .gitignore        # Ignore build files, dependencies
